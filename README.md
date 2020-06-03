@@ -20,13 +20,13 @@ Create (and activate) a new environment, named deep-learning with Python 3.6. If
 
 Linux or Mac:
 
-conda create -n deep-learning-neural python=3.6
+conda create -n deep-learning python=3.6
 
 source activate deep-learning
 
 Windows:
 
-conda create --name deep-learning-neural python=3.6
+conda create --name deep-learning python=3.6
 
 activate deep-learning
 
