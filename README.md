@@ -10,6 +10,7 @@ https://www.kaggle.com/ayanzadeh93/color-classification
 Installation commands:
 
 git clone https://github.com/roypratik/Color_based_object_sorter.git
+
 cd Color_based_object_sorter
 
 Create (and activate) a new environment, named deep-learning with Python 3.6. If prompted to proceed with the install (Proceed [y]/n) type y.
